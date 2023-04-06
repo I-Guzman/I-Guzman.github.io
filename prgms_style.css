@@ -13,6 +13,8 @@ ul {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
+    font-family:"monaco";
+    font-variant:small-caps;
   }
   
   li {
