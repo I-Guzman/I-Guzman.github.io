@@ -4,6 +4,9 @@ h2{
     font-family: 'Franklin Gothic Medium';
     font-weight: 400;
 }
+iframe{
+  align-self: center;
+  }
 ul {
     list-style-type: none;
     margin: 0;
