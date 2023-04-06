@@ -19,6 +19,11 @@ ul {
   
   li {
     float: left;
+    border-right: 1 solid #bbb;
+  }
+  li:last-child {
+    border-right: none;
+    float:right;
   }
   
   li a {
