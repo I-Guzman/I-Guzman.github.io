@@ -44,3 +44,18 @@ ul {
   .active {
     background-color:#fbbb4d;
   }
+  .container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1 1 1;
+    column-gap: 5;
+   }
+   
+   img {
+     max-width: 100;
+     max-height:100;
+   }
+   
+   .text {
+     font-size: 70;
+   }
