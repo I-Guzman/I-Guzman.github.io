@@ -11,21 +11,20 @@ h3{
   font-weight: 400;
 }
 h2{
-  text-align:left;
-  color:rgb(40, 41, 42);
+  color:rgb(0, 0, 0);
   font-family: 'Monaco';
   font-weight: 400;
 }
 h1{
   text-align:center;
-  color:rgb(40, 41, 42);
+  color:rgb(0, 0, 0);
   font-family: 'Monaco';
-  font-weight: 400;
+  font-weight: 600;
 }
 iframe{
   align-self: center;
   }
-ul {
+  .ultop{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -38,16 +37,16 @@ ul {
     top: 0;
   }
   
-  li {
+  .litop{
     float: left;
     border-right: 1 solid #bbb;
   }
-  li:last-child {
+  .lilast{
     border-right: none;
     float:right;
   }
   
-  li a {
+  li a{
     display: block;
     color: white;
     text-align: center;
