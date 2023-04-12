@@ -1,8 +1,26 @@
-h2{
+h4{
     text-align:left;
-    color:rgb(85, 91, 94);
-    font-family: 'Franklin Gothic Medium';
+    color:rgb(40, 41, 42);
+    font-family: 'Monaco';
     font-weight: 400;
+}
+h3{
+  text-align:left;
+  color:rgb(40, 41, 42);
+  font-family: 'Monaco';
+  font-weight: 400;
+}
+h2{
+  text-align:left;
+  color:rgb(40, 41, 42);
+  font-family: 'Monaco';
+  font-weight: 400;
+}
+h1{
+  text-align:center;
+  color:rgb(40, 41, 42);
+  font-family: 'Monaco';
+  font-weight: 400;
 }
 iframe{
   align-self: center;
