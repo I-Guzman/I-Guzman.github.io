@@ -1,8 +1,13 @@
 h2{
-    text-align:center;
-    color:navy;
-    font-family: 'Franklin Gothic Medium';
-    font-weight: 400;
+  color:rgb(40, 41, 42);
+  font-family: 'Monaco';
+  font-weight: 400;
+}
+h1{
+  text-align:center;
+  color:rgb(0, 0, 0);
+  font-family: 'Monaco';
+  font-weight: 600;
 }
 
 ul {
