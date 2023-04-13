@@ -46,3 +46,17 @@ ul {
     background-color:rgb(134, 190, 37);
     color:rgb(24, 24, 24);
   }
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1);
+    gap: 10;
+    grid-auto-rows: minmax(100, auto);
+  }
+  .replleft {
+    grid-column: 1;
+    grid-row: 2 / 5;
+  }
+  .replright {
+    grid-column: 3;
+    grid-row: 2 / 5;
+  }
