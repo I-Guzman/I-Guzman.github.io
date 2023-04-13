@@ -43,3 +43,9 @@ ul {
     background-color:#8bc3e3;
     color:rgb(24, 24, 24);
   }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
