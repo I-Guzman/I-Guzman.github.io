@@ -43,3 +43,17 @@ ul {
     background-color: #7a83d7;
     color:rgb(24,24,24);
   }
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1);
+    gap: 10;
+    grid-auto-rows: minmax(500, auto);
+  }
+  .musically {
+    grid-column: 1;
+    grid-row: 2 / 5;
+  }
+  .glamping {
+    grid-column: 3;
+    grid-row: 2 / 5;
+  }
