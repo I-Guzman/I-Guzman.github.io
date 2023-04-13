@@ -66,10 +66,10 @@ ul {
     grid-auto-rows: minmax(100, auto);
   }
   .replleft {
-    grid-column: 1;
+    grid-column: 1 / 2;
     grid-row: 2 / 3;
   }
   .replright {
-    grid-column: 2;
-    grid-row: 3 / 3;
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
   }
