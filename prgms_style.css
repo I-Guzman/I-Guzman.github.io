@@ -39,8 +39,10 @@ ul {
   
   li a:hover {
     background-color: #111;
+    color:rgb(255, 255, 255);
   }
   
   .active {
     background-color:rgb(134, 190, 37);
+    color:rgb(24, 24, 24);
   }
